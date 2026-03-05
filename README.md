@@ -105,6 +105,12 @@ docker compose up --build
 # API Docs: http://localhost:8000/docs
 ```
 
+![alt text](<docs/assets/Screenshot 2026-03-05 155758.png>)
+
+
+
+
+
 ---
 
 ## 📡 API Reference
